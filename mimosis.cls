@@ -8,7 +8,7 @@
 
 \LoadClass[a4paper,
            twoside,
-           11pt,
+           12pt,
            cleardoublepage=empty,
            numbers=noenddot,
            titlepage,
@@ -51,7 +51,7 @@
 % Fonts & colours
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\RequirePackage[dvipsnames]{xcolor}
+\RequirePackage[usenames,dvipsnames]{xcolor}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Graphics
